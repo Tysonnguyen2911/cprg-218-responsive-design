@@ -1,3 +1,9 @@
 body{
-    background-color: rgb(77, 74, 249);
+    background-color: cyan;
 }
+@media screen and (max-width: 480px) {
+    body {
+      background-color: red;
+    }
+  }
+  
