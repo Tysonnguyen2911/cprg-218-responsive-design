@@ -1,0 +1,8 @@
+body{
+    background-color: cyan;
+}
+@media screen and (max-width:480px){
+    body{
+        background-color: red;
+    }
+}
